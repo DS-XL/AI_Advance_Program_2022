@@ -1,0 +1,25 @@
+ingredient_id,ingredient_name,gpt_assisted,ingredient_long_description,ingredient_image_url
+TP108,Taro Balls,FALSE,"By careful selection of the finest soft and most fragrant taro following traditional techniques, the texture of each taro ball is soft, chewy, and delicate.",https://meetfresh.us/wp-content/uploads/2023/05/%E9%85%8D%E6%96%99_%E8%8A%8B%E5%9C%93-2048x1373.png
+TP012,Mini Q (Mini Taro Ball),FALSE,Miniature version of our signature Taro Balls,https://meetfresh.us/wp-content/uploads/2021/02/_%E5%B0%8F%E8%8A%8B%E5%9C%93-e1613772488514.png
+TP102,Taro,FALSE,The texture of the finest carefully selected taro is dense and soft and has appetizing and constipation prevention effects.,https://meetfresh.us/wp-content/uploads/2021/02/_%E8%8A%8B%E9%A0%AD-2-e1613772565183.png
+TP110,Taro Paste,FALSE,Finely selected taro in sweet paste-like texture,https://meetfresh.us/wp-content/uploads/2021/02/-e1613770938935.png
+TP107,Sesame Rice Balls,FALSE,"Bouncy, chewy, and nutty black sesame rice balls",https://meetfresh.us/wp-content/uploads/2021/02/_sesame-rice-ball-e1613771761315.png
+TP106,Caramel Pudding,FALSE,Caramel-flavored pudding with a silky smooth texture,https://meetfresh.us/wp-content/uploads/2021/02/-e1613771109457.png
+TP109,Almond Pudding,FALSE,Almond-flavored pudding with a silky smooth texture,https://meetfresh.us/wp-content/uploads/2021/02/_%E6%9D%8F%E4%BB%81%E5%A5%B6%E5%87%8D-e1613772520279.png
+TP101,Ice Cream,FALSE,"Creamy, vanilla ice cream",https://meetfresh.us/wp-content/uploads/2022/10/_%E9%A6%99%E8%8D%89%E5%86%B0%E6%B7%87%E6%B7%8B-e1665689647851.png
+TP111,Q Mochi,FALSE,Smooth and stretchy glutinous rice cake with an added chewy texture,https://meetfresh.us/wp-content/uploads/2021/02/Q%E9%BA%BB%E7%B3%AC-e1613771074908.png
+TP103,Potaro Balls,FALSE,Soft and chewy combination of both sweet potato and taro,https://meetfresh.us/wp-content/uploads/2021/02/_potaro-ball-e1613771550513.png
+TP013,Red Beans,FALSE,"Releases a fragrant smell through the air after cooking, it has abundant iron which promotes circulation and increased immunity.",https://meetfresh.us/wp-content/uploads/2022/10/_red-bean-e1665689090952.png
+TP016,Peanuts,FALSE,Soft peanuts for the perfect amount of crunch in each bite,https://meetfresh.us/wp-content/uploads/2023/04/%E9%85%8D%E6%96%99_peanut-2048x1369.png
+TP015,Grass Jelly,FALSE,"Dried herbal grass delivered directly from its place of origin, has a cooling effect and after simmering for 8 hours, it becomes soft and refreshing. Silky, refreshing, and aromatic.",https://meetfresh.us/wp-content/uploads/2021/02/_grass-jelly-e1613771325722.png
+TP019,Melon Jelly,FALSE,Slightly sweet and chewy jelly made from winter melon tea,https://meetfresh.us/wp-content/uploads/2021/02/_melon-jelly-e1613771389430.png
+TP011,Boba,FALSE,Sweet and chewy boba made with natural sugars,https://meetfresh.us/wp-content/uploads/2021/02/_boba-e1613771261411.png
+TP018,Black Sugar Boba,FALSE,Deep caramel and molasses flavored boba,https://meetfresh.us/wp-content/uploads/2021/02/black-sugar-boba-1-e1613771293576.png
+TP006,Rice Balls,FALSE,"Bouncy, chewy, mochi rice balls made from soft rice",https://meetfresh.us/wp-content/uploads/2021/02/_rice-ball-e1613771728413.png
+B15,Tofu Pudding,FALSE,Tofu pudding made from choice non-GMO soy beans with a rich soy aroma and a surprisingly good taste to satisfy taste buds.,https://meetfresh.us/wp-content/uploads/2021/04/Tofu-pudding-base.jpg
+UNK1001,Sweet Potato,FALSE,"Selected from the finest harvest, our sweet potato is dense and soft.",
+UNK1002,Almond Flakes,FALSE,Thinly shaved almond flakes for added texture and flavor,https://meetfresh.us/wp-content/uploads/2021/03/almond-flakes-2048x1369.png
+TP116,Coco Mochi,FALSE,Coconut flavored mochi,
+UNK1003,Coco Sago,FALSE,Soft and bouncy sago,
+TP117,Sago,FALSE,Chewy and spongey starch from sago palm,
+TP023,Lychee Jelly,TRUE,"Made with the finest lychee essence, this delightful jelly is a true tropical delight. Each bite offers a juicy explosion of sweetness, accompanied by a satisfyingly soft texture.",https://meetfresh.us/wp-content/uploads/2021/04/lyvhee-jelly.jpg
